@@ -1,5 +1,3 @@
-//demo 
-
 import {
   loadHeader,
   loadFooter,
