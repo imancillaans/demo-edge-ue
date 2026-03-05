@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/anseris-demo-ue/:/"
+    "/content/demo-edge-ue:/"
   ],
   "includes": [
-    "/content/anseris-demo-ue/"
+    "/content/demo-edge-ue/"
   ]
 }
